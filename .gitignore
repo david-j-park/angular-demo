@@ -1,3 +1,4 @@
 .project
 .settings/*
 .jshintrc
+/nbproject/private/
